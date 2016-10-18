@@ -1,2 +1,2 @@
 # danevo-songlist
-Simple HTML list of DanEvo's available songs
+Simple HTML songlist for DanEvo
